@@ -20,6 +20,6 @@
   "types": "index.d.ts",
   "dependencies": {
     "node-fetch": "^3.2.0",
-    "unfetch": "^5.0.0"
+    "unfetch": "github:GetContented/unfetch#5ef9264b071afd6882cdc9c342b30bf552f87799"
   }
 }
